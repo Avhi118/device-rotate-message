@@ -1,2 +1,12 @@
-# device-rotate-message
-Rotate their device for a better viewing experience.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Device</title>
+    <link rel="stylesheet" href="orr.css">
+</head>
+<body>
+    <h2> Rotate your Device</h2>
+</body>
+</html>
